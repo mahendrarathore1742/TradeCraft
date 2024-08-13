@@ -4,4 +4,4 @@
 
 dotnet build
 
-dotnet run ```
+dotnet run
